@@ -1,1 +1,1 @@
-# git_test
+Ceci est le premier git de Bertrand !
